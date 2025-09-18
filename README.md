@@ -1,5 +1,5 @@
 # network-anomaly-detection
-This project develops and evaluates a Random Forest-based intrusion detection system (IDS) to detect anomalies in network traffic data. The work focuses on handling imbalanced datasets, preprocessing large-scale network features, and testing GPU acceleration for scaling machine learning workflows.
+This project develops and evaluates a Random Forest-based intrusion detection system (IDS) to detect anomalies in network traffic data.
 
 Achieved 87% accuracy.
 
